@@ -49,8 +49,6 @@ Training over **700 epochs** with a learning rate of **0.1**: achieved an accura
 ## How to Run
 
 1. Clone the repo:
-   ```bash
-   git clone [https://github.com/anirudh27004/NeuralNetwork_from_scratch/tree/main]https://github.com/anirudh27004/NeuralNetwork_from_scratch/tree/main)
 
 2. Install the dependencies
 
